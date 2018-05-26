@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include<conio.h>
 #include<windows.h>
+
+
 int p=100000,k=99,i1=2;
 int i,j;
 int main_exit;
